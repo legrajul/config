@@ -92,6 +92,7 @@ alias ll='ls -alF --color'
 alias la='ls -A --color'
 alias l='ls -CF --color'
 alias clr='clear'
+alias emacs='emacs -nw'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert

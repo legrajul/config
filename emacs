@@ -6,3 +6,5 @@
 
 (require 'windmove)
 (windmove-default-keybindings 'meta)
+(add-to-list 'load-path "~/emacs-el/bison")
+(add-to-list 'load-path "~/emacs-el/flex")

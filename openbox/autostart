@@ -1,0 +1,5 @@
+nitrogen --restore &
+tint2 &
+compton --config /home/hypn0s/.config/compton.conf -b&
+volumeicon &
+guake &
